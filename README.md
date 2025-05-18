@@ -1,7 +1,7 @@
 # cube
 rotating cube
 
-This will genrate a colorful rotating cube.
+This will generate a colorful rotating cube.
 
 Use Visual Studio and create a console/C++ project.
 Add my code after including the changes to the includes for where GLFW and GLEW are located.
